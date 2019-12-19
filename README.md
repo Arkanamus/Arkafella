@@ -1,1 +1,3 @@
 # Arkafella
+
+#im still learning to code for the time being this is will not have much use from me but soon...
